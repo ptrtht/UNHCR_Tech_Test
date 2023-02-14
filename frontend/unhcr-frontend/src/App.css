@@ -1,0 +1,19 @@
+.card {
+    min-width: 400px
+}
+
+.in-fx {
+    display: inline-flex;
+}
+
+input {
+    flex: 2;
+}
+a {
+    flex: 1
+}
+
+.card-header {
+    width: 100%;
+    justify-content: center;
+}
